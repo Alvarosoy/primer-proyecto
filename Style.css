@@ -1,0 +1,25 @@
+h1{
+    color: rgb(9, 255, 0);
+    background-color: blue;
+    font-size: xx-large;
+    
+}
+h2{
+    color: black;
+    font-size: xx-large;
+}
+li{
+    color: black(231, 220, 255);
+    font-size: xx-large;
+}
+p{
+    color: black;
+    background-color: color(from color srgb r g b);
+    font-weight: 500;
+}
+body{
+    background-color: rgb(100, 237, 237);
+}
+h3{
+    font-size: xx-large; font-family: cursive; font-style: oblique; font-size: 300%;
+}
